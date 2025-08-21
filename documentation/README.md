@@ -7,7 +7,7 @@
 1. [Overview](#overview)
 2. [Articles / Publications](#articles--publications)
 3. [Project Workflow](#project-workflow)
-4. [File Structure](#file-structure)
+4. [File Structure](#file-structtemure)
 5. [Data Directory](#data-directory)
 6. [Visualizations / Outputs](#visualizations--outputs)
 7. [Key Concepts / Variables](#key-concepts--variables)
